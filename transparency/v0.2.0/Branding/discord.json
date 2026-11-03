@@ -1,0 +1,17 @@
+{
+  "applicationId": "1564439139145748571",
+  "name": "AltSync",
+  "details": "Managing Roblox accounts",
+  "state": "In AltSync",
+  "largeImage": "https://cdn.discordapp.com/app-icons/1564439139145748571/e2e1d0cf2955bc6c83c5f214417a9932.png?size=1024",
+  "buttons": [
+    {
+      "label": "Join Server",
+      "url": "https://discord.gg/emhykYCYmH"
+    },
+    {
+      "label": "Download",
+      "url": "https://github.com/PingusWasHere/AltSync/releases/latest/download/AltSync-win-x64.zip"
+    }
+  ]
+}

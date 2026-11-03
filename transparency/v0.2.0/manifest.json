@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "applicationVersion": "0.2.0",
+  "publicationDate": "2026-11-03",
+  "scope": "Partial native application source snapshot for review; not a complete buildable project.",
+  "sourceBinaryEquivalenceVerified": false,
+  "release": {
+    "url": "https://github.com/PingusWasHere/AltSync/releases/tag/v0.2.0",
+    "archive": "AltSync-win-x64.zip",
+    "sha256": "64c641cca691b514b2d26cefc9c5a542edc3206cf13a00bde48c25a6b347dc35"
+  },
+  "files": [
+    {
+      "path": "AltSync.csproj",
+      "bytes": 1174,
+      "sha256": "8ef7f13849f9142c5bd77e2980db88f44a17baca9982dc9f257ec33124abe93a"
+    },
+    {
+      "path": "app.manifest",
+      "bytes": 612,
+      "sha256": "9d312fb64dbf6614897831256430fc7abaf091188c01b631e05eb8dae7078657"
+    },
+    {
+      "path": "App.xaml.cs",
+      "bytes": 1151,
+      "sha256": "55b45ecad1a070ee9ee1d845661f50c57c01c873fdf15a5a29b10e0f7799b9f0"
+    },
+    {
+      "path": "MainWindow.xaml.cs",
+      "bytes": 30982,
+      "sha256": "40ac65f62f418c31e4227ace3907da548abe192d368dfcc28a82bb2091a8c02a"
+    },
+    {
+      "path": "LoginWindow.cs",
+      "bytes": 12323,
+      "sha256": "47fae40c220a9f4e24a2794bb336b8da750f1425d6cfcb0e93835b5788b65525"
+    },
+    {
+      "path": "CookieImportWindow.cs",
+      "bytes": 6056,
+      "sha256": "447ab7ddd4eb2b143a194cc919e794841df4ad9bc1d51a802923a46a1dee2a59"
+    },
+    {
+      "path": "BackupWindow.cs",
+      "bytes": 5101,
+      "sha256": "1cf018e1ce35866b2af9b0f8f4484a7553946621f2908797eedabb4c47250b7d"
+    },
+    {
+      "path": "Core/AutoUpdater.cs",
+      "bytes": 15397,
+      "sha256": "0b3d7d287b76ca40a509bf7e8ad523a0d4321d7dc04811e22bc26057b060fb80"
+    },
+    {
+      "path": "Core/CookieSession.cs",
+      "bytes": 660,
+      "sha256": "c035a290e9d7c01793ac81cedb06c5920d04e7002f648f3454d94e927481f4da"
+    },
+    {
+      "path": "Core/DiscordBranding.cs",
+      "bytes": 2687,
+      "sha256": "216b5cbbcbad57f0383667119a7383e6498419343f28e22546d4468d5eed5b97"
+    },
+    {
+      "path": "Core/DiscordPipe.cs",
+      "bytes": 1825,
+      "sha256": "54e5a388ff8f3e3250bb501983b803510c87f390e1dac91aeb76035d7e763b42"
+    },
+    {
+      "path": "Core/DiscordPresence.cs",
+      "bytes": 11588,
+      "sha256": "1371423fe575505f1b4087453901cdd16be10ed78910caec5f113c5708cf53fa"
+    },
+    {
+      "path": "Core/GameBrowser.cs",
+      "bytes": 10376,
+      "sha256": "2b3e6e2b2940befe2276014f4c3d637dab95a7dd3bfe399149ca2091347e5f69"
+    },
+    {
+      "path": "Core/LaunchDestination.cs",
+      "bytes": 3964,
+      "sha256": "a99793d80a6f29d9105f1ddde36bc1741306d2336349bd10fce35c9b73f5bf75"
+    },
+    {
+      "path": "Core/LaunchQueue.cs",
+      "bytes": 3776,
+      "sha256": "307ddc56ac4d85e222083baabecec2c2feebfe9e2a2e3280116701a3a9715ca6"
+    },
+    {
+      "path": "Core/Library.cs",
+      "bytes": 7667,
+      "sha256": "5325663ec58bdfba89abbc618a1765636f7dc85568d4b60bee9eb6bd82f1eb43"
+    },
+    {
+      "path": "Core/Models.cs",
+      "bytes": 1464,
+      "sha256": "de6bf338927eb2870cd8d36277e32836388991749447b25cef96f87629e3214f"
+    },
+    {
+      "path": "Core/MultiInstance.cs",
+      "bytes": 6796,
+      "sha256": "e4ba13cb890a33f8d3c44a59d23599a1f264e7bb6aff6139954e549f16be45f3"
+    },
+    {
+      "path": "Core/PerformanceProfiles.cs",
+      "bytes": 3808,
+      "sha256": "e26a3555e308dd4e0527a8f6c18a790f64b5637a51100065e40642eee0599240"
+    },
+    {
+      "path": "Core/PortableBackup.cs",
+      "bytes": 8755,
+      "sha256": "e52de61733f9e9a55404e226dccfd0a587beef4ae758da33bd43702053ca0382"
+    },
+    {
+      "path": "Core/ProcessOwner.cs",
+      "bytes": 1142,
+      "sha256": "570dc908b935f47526436632bea58dec6d19c832744f35576e4738c6d8cc8635"
+    },
+    {
+      "path": "Core/RobloxApi.cs",
+      "bytes": 10452,
+      "sha256": "81ab6683a44cf1dafbbf10b3566217b3408f09606dfe0cb1da21342f1d78e2b3"
+    },
+    {
+      "path": "Core/RobloxInstall.cs",
+      "bytes": 1162,
+      "sha256": "70b859954b77e575b2dd08165aa045cc7239b6dfed999acc94889ba46c628461"
+    },
+    {
+      "path": "Core/RobloxLaunch.cs",
+      "bytes": 663,
+      "sha256": "c11b155a0712fb5cf39e4a17aab62e97e43d312c96bc59600d5770bf63414164"
+    },
+    {
+      "path": "Core/ServerBrowser.cs",
+      "bytes": 3945,
+      "sha256": "bf065b874a57db281b592842d41f7cea981c59221284aae25fc4f4f877175d97"
+    },
+    {
+      "path": "Core/SessionMonitor.cs",
+      "bytes": 2811,
+      "sha256": "64a2cb57c1c01d48fa5b9559263ace485a7293db1e29ffe809de3986c2834489"
+    },
+    {
+      "path": "Core/SystemResources.cs",
+      "bytes": 1372,
+      "sha256": "56d741b257538ade18cd085b979ca3ce81bdd769df14a2b3da8d91968a8cdce7"
+    },
+    {
+      "path": "Core/UpdatePackage.cs",
+      "bytes": 3357,
+      "sha256": "1f9a2a47ad3206169b7efa4f46a7962b0b1ec20e7772399d1ff872aa749d2082"
+    },
+    {
+      "path": "Core/Vault.cs",
+      "bytes": 2157,
+      "sha256": "11bdd66a97f10fd327c529d0f39e4abcef05b64b06a4e647427d26c91fa5011d"
+    },
+    {
+      "path": "Core/WindowLayouts.cs",
+      "bytes": 4579,
+      "sha256": "b7d9538640aac0de0dce03e33bf4a0ef2808a014624c86cdcde5d9c531326b58"
+    },
+    {
+      "path": "Branding/discord.json",
+      "bytes": 502,
+      "sha256": "36db1fe73ca804846e2de60fb8c3917fc7ff8462552cd48291e1c957a23054b8"
+    },
+    {
+      "path": "Updater/install.ps1",
+      "bytes": 5509,
+      "sha256": "7338481c089ce9203fcd159f03c86a5d157e3ba7dc1cf0edefbe40672a85aa69"
+    },
+    {
+      "path": "scripts/build.ps1",
+      "bytes": 3401,
+      "sha256": "37dc624f359f8f02ab3e1201cb443c493292493c0145a1bd1518e20209927f64"
+    },
+    {
+      "path": "scripts/audit-release-privacy.cjs",
+      "bytes": 3635,
+      "sha256": "d2eb5d2b3d41d3957a675c6a09b771cbe0a2ba453ea75569496c50e9935ffdc3"
+    }
+  ]
+}
